@@ -9,7 +9,7 @@ PowerShell script çalıştırmak için gerekli adımları izleyin.
 -Execution policy için aşağıdaki komutu girin.
 > Execution Policy: > Unrestricted 
 
-- Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
+Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
 
 Hata vermezse PowerShell'i kapatabilirsiniz.
 
