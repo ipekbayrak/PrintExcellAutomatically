@@ -1,4 +1,4 @@
-# Otomatik Olarak Excell Sayfası Bastırmak
+# Otomatik Excell Sayfası Bastırmak
 Bu sistem windows 7 ve sonrası üzerinde kurulu gelen PowerShell üzerinden çalışmaktadır.
 
 ## PowerShell Script Kullanımı İzni
