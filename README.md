@@ -17,7 +17,9 @@ Hata vermezse PowerShell'i kapatabilirsiniz.
 
 ## Kodun Kullanımı
 Öncelikle run.bat dosyası içineki dosya yolunu kendi bilgisayarınıza göre düzenleyin.
+
 Daha sonra autorun.ps1 dosyası içindeki excell dosya yolunu yazdırmak istediğiniz excell dosya yoluna göre düzenleyin.
+
 run.bat dosyasına çift tıkladığınızda varsayılan seçeneklere göre yazdırma işlemi otomatik olarak başlayacaktır.
 
 ## Zamanlanmış Görev
