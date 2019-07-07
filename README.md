@@ -12,6 +12,7 @@ Execution Policy: için aşağıdaki komutu girin.
 > Unrestricted 
 
 Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
+> a
 
 Hata vermezse PowerShell'i kapatabilirsiniz.
 
