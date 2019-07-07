@@ -1,6 +1,4 @@
-# PrintExcellAutomatically
-Excell Sayfalarını Otomatik Bastırmak İçin Öğretici Bir İçerik Ve Kod
-
+# Otomatik Olarak Excell Sayfası Bastır
 Bu sistem windows 7 ve sonrası üzerinde kurulu gelen PowerShell üzerinden çalışmaktadır.
 
 ## PowerShell Script Kullanımı İzni
