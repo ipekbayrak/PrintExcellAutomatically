@@ -6,13 +6,13 @@ PowerShell üzerinde harici dosya ile script çalıştırma izni vermeniz gerekm
 Aşağıdaki adımları izleyin.
 Yönetici modunda PowerShell çalıştırın. 
 Aşağıdaki Komutu girin.
-> >Set-ExecutionPolicy
+> > Set-ExecutionPolicy
 
 Execution Policy: için aşağıdaki komutu girin.
-> >Unrestricted 
+> > Unrestricted 
 
 Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
-> >A
+> > A
 
 Hata vermezse PowerShell'i kapatabilirsiniz.
 
