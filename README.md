@@ -8,8 +8,8 @@ Yönetici modunda PowerShell çalıştırın.
 Aşağıdaki Komutu girin.
 > Set-ExecutionPolicy
 
-Execution policy için aşağıdaki komutu girin.
-> Execution Policy: > Unrestricted 
+Execution Policy: için aşağıdaki komutu girin.
+> Unrestricted 
 
 Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
 
