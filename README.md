@@ -2,8 +2,10 @@
 Bu sistem windows 7 ve sonrası üzerinde kurulu gelen PowerShell üzerinden çalışmaktadır.
 
 ## PowerShell Script Kullanımı İzni
-PowerShell script çalıştırmak için gerekli adımları izleyin.
--Yönetici modunda PowerShell çalıştırın. Aşağıdaki Komutu girin.
+PowerShell üzerinde harici dosya ile script çalıştırma izni vermeniz gerekmektedir.
+Aşağıdaki adımları izleyin.
+Yönetici modunda PowerShell çalıştırın. 
+Aşağıdaki Komutu girin.
 > Set-ExecutionPolicy
 
 Execution policy için aşağıdaki komutu girin.
