@@ -5,8 +5,10 @@ Bu sistem windows 7 ve sonrası üzerinde kurulu gelen PowerShell üzerinden ça
 PowerShell script çalıştırmak için gerekli adımları izleyin.
 -Yönetici modunda PowerShell çalıştırın. Aşağıdaki Komutu girin.
 > Set-ExecutionPolicy
+
 -Execution policy için aşağıdaki komutu girin.
-Execution Policy: > Unrestricted 
+> Execution Policy: > Unrestricted 
+
 - Do you want to change Execution Policy? Sorusunu A tuşuna basıp Enter ile cevaplayın.
 
 Hata vermezse PowerShell'i kapatabilirsiniz.
